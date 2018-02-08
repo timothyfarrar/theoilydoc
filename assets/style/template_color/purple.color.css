@@ -1,0 +1,101 @@
+
+ 
+.purple .title .dots em,
+.purple .button,
+.purple .button.var2:active,
+.purple .button.var2:focus,
+.purple .button.var2:hover,
+.purple .circle-button,
+.purple .services-block:hover .dots em,
+.purple .work-block .zoom,
+.purple .feedback-block .line,
+.purple .twitter,
+.purple .team-block .image-wrapper,
+.purple .scroll-top:hover,
+.purple .blog-block .dots em,
+.purple .page-name,
+.purple .comments-title .dots em{
+	background-color: #639;
+}
+.purple a.active,
+.purple a:hover,
+.purple .header-search .btn-group .btn:hover,
+.purple .header-search .btn-group .btn:hover span,
+.purple .header-search .soc-icons a:hover,
+.purple .navbar-default .navbar-nav > .open > a, 
+.purple .navbar-default .navbar-nav > .open > a:hover, 
+.purple .navbar-default .navbar-nav > .open > a:focus,
+.purple .navbar-default .navbar-nav > li > a:hover, 
+.purple .navbar-default .navbar-nav > li > a:focus,
+.purple .navbar-default .navbar-brand span,
+.purple .slider-logo .tp-splitted:nth-child(2),
+.purple .about-block em,
+.purple .about-block:hover .name,
+.purple .video .fa-pause:hover,
+.purple .services-block em,
+.purple .services-block:hover .name,
+.purple .fact-block em,
+.purple .feedback-block .position,
+.purple .team-block .soc-button a:hover,
+.purple .team-block:hover .name,
+.purple .soc-block .col-lg-2 a:hover,
+.purple .scroll-top,
+.purple .contact .mail,
+.purple .soc-icon a:hover,
+.purple .blog-content .name:hover,
+.purple .blog-content .info em,
+.purple .blog-content .info > *:hover,
+.purple .read-more:hover em,
+.purple .blog-menu a:hover,
+.purple .small-post:hover .name,
+.purple .tags-wrapper a:hover{
+	color: #639;
+}
+.purple .button.var2:active,
+.purple .button.var2:focus,
+.purple .button.var2:hover,
+.purple .circle-button:after,
+.purple .team-block:hover .soc-button{
+	border-color: #639;
+}
+.purple .blog-menu a:hover{
+	border-left-color: #639;
+}
+.purple .dropdown-menu > li > a:hover:before,
+.purple .contact input:focus,
+.purple .contact textarea:focus,
+.purple .single-work-details .line em,
+.purple .read-more:hover em,
+.purple .blog-left-side .form-control:focus,
+.purple .leave-comment input:focus,
+.purple .leave-comment textarea:focus{
+	box-shadow: 0 0 0 2px #639 inset;
+}
+.purple .about-block:hover .text:before{
+	box-shadow: 0 0 0 10px #639 inset;
+}
+.purple .single-work .flex-control-nav a.flex-active,
+.purple .team-slider .flex-control-nav a.flex-active,
+.purple .blog-content .flex-control-nav a.flex-active {
+    box-shadow: 0 0 0 12px #639 inset;
+}
+.purple .circle-button:active,
+.purple .circle-button:focus,
+.purple .circle-button:hover,
+.purple .button.big:active,
+.purple .button.big:focus,
+.purple .button.big:hover,
+.purple .button:active,
+.purple .button:focus,
+.purple .button:hover,
+.purple .scroll-top:hover{
+	color: #fff;
+}
+.purple .button.big:active,
+.purple .button.big:focus,
+.purple .button.big:hover,
+.purple .button:active,
+.purple .button:focus,
+.purple .button:hover{
+	background: #333;
+}

@@ -1,0 +1,392 @@
+.page-name{
+	background: #639;
+	height: 140px;
+	text-align: center;
+	color: #fff;
+	margin-top: 150px;
+	margin-bottom: 50px;
+	position: relative;
+}
+	.page-name h1{
+		line-height: 110px;
+		font-size: 36px;
+		font-weight: 900;
+		text-transform: uppercase;
+		position: relative;
+		z-index: 1;
+	}
+	.page-name .image-wrapper {
+	    height: 100%;
+	    left: 0;
+	    position: absolute;
+	    top: 0;
+	    width: 100%;
+	    z-index: 0;
+	    opacity: 0;
+		opacity: 0.2;
+	}
+.header{
+	height: 150px;
+}
+.navbar{
+	height: auto;
+	opacity: 1;
+	overflow: visible;
+}
+.bread-crumbs {
+    font-weight: 900;
+    letter-spacing: 2px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 58%;
+    width: 100%;
+    z-index: 1;
+}
+	.bread-crumbs span,
+	.bread-crumbs a{
+		color: #fff;
+		margin-right: 5px;
+		vertical-align: middle;
+		display: inline-block;
+	}
+	.bread-crumbs a:hover,
+	.bread-crumbs span{
+		color: rgba(255,255,255,0.5);
+	}
+	.bread-crumbs a:after{
+		border-radius: 50%;
+	    content: "";
+	    display: inline-block;
+	    height: 5px;
+	    margin-left: 5px;
+	    position: relative;
+	    top: -1px;
+	    vertical-align: middle;
+	    width: 5px;
+		background: rgba(255,255,255,0.5);
+	}
+.contact{
+	margin-top: 0;
+}
+.cleants-logo{
+	line-height: 180px;
+}
+.cleants-logo .cleants-logo-block{
+	border-top: 1px solid #e6e6e6;
+}
+.four-column .work-block{
+	width: 24.99%;
+}
+.three-column .work-block{
+	width: 33.32%;
+}
+.two-column .work-block{
+	width: 49.99%;
+}
+
+.work-title{
+	border-top: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+	position: relative;
+	height: 70px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+.work-title.var2{
+	border: none;
+	margin-top: 30px;
+}
+	.work-title .next,
+	.work-title .prev{
+		position: absolute;
+		left: 0;
+		top: 0;
+		border-left: 1px solid #e6e6e6;
+		border-right: 1px solid #e6e6e6;
+		line-height: 68px;
+		height: 68px;
+		width: 70px;
+		background: #f7f7f7;
+		font-size: 30px;
+		color: #ccc;
+
+		-webkit-transition: all 0.3s ease;
+	    -moz-transition: all 0.3s ease;
+		-ms-transition: all 0.3s ease;
+		-o-transition: all 0.3s ease;
+		transition: all 0.3s ease;
+	}
+	.work-title .next{
+		left: auto;
+		right: 0;
+	}
+	.work-title .next:hover,
+	.work-title .prev:hover{
+		background: #fff;
+		color: #639;
+	}
+	.work-title .name{
+		font-size: 28px;
+		line-height: 28px;
+		color: #333;
+		margin-top: 12px;
+	}
+	.work-title .position{
+		font-size: 14px;
+		line-height: 14px;
+		color: #999;
+	}
+.single-work .flexslider img{
+	width: 100%;
+}
+.single-work .flexslider{
+	position: relative;
+	overflow: hidden;
+}
+.single-work .flex-control-nav {
+    bottom: 20px;
+    display: block;
+    height: 12px;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 10;
+}
+	.single-work .flex-control-nav li {
+	    display: inline-block;
+	}
+		.single-work .flex-control-nav a {
+		    border-radius: 50%;
+		    box-shadow: 0 0 0 2px #ccc inset;
+		    cursor: pointer;
+		    display: inline-block;
+		    height: 12px;
+		    margin: 0 4px;
+		    text-indent: -99999px;
+		    width: 12px;
+		}
+		.single-work .flex-control-nav a.flex-active {
+		    box-shadow: 0 0 0 12px #639 inset;
+		}
+.single-work-details{
+	position: relative;
+}
+	.single-work-details strong{
+		font-size: 18px;
+		line-height: 18px;
+		font-size: 18px;
+		font-weight: 600;
+		display: block;
+		margin-bottom: 25px;
+	}
+	.single-work-details p{
+		font-size: 15px;
+		line-height: 22px;
+		color: #666;
+		margin-bottom: 25px;
+	}
+	.single-work-details .line{
+		line-height: 50px;
+		border-top: 1px solid #e6e6e6;
+		border-bottom: 1px solid #e6e6e6;
+		padding: 0 20px;
+		font-size: 15px;
+		font-weight: 200;
+		color: #666;
+		margin-bottom: -1px;
+		position: relative;
+	}
+		.single-work-details .line span{
+			width: 110px;
+			display: inline-block;
+			font-weight: 600;
+		}
+		.single-work-details .line em{
+			position: absolute;
+			left: 0;
+			width: 8px;
+			height: 8px;
+			box-shadow: 0 0 0 2px #639 inset;
+			top: 50%;
+			margin-top: -4px;
+			border-radius: 50%;
+		}
+	.single-work-details .button{
+		margin-top: 31px;
+	}
+	.single-work-details .like{
+		position: absolute;
+		top: 0;
+		right: 15px;
+		font-size: 13px;
+	}
+		.single-work-details .like em{
+			color: #ccc;
+
+			-webkit-transition: all 0.3s ease;
+		    -moz-transition: all 0.3s ease;
+			-ms-transition: all 0.3s ease;
+			-o-transition: all 0.3s ease;
+			transition: all 0.3s ease;
+		}
+		.single-work-details .like:hover em{
+			color: #f33;
+		}
+.soc-icon span{
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-weight: 900;
+	vertical-align: middle;
+	margin-right: 12px;
+}
+.soc-icon a{
+	color: #ccc;
+	font-size: 20px;
+	vertical-align: middle;
+	margin: 0 12px;
+}
+.soc-icon a:hover{
+	color: #639;
+}
+.full-width{
+	margin-top: -50px;
+}
+@media (max-width: 1200px){
+	.single-work-details .line span{
+		width: 100px;
+	}
+	.single-work-details .line{
+		font-size: 13px;
+		line-height: 40px;
+	}
+	.single-work-details strong{
+		margin-bottom: 15px;
+	}
+	.single-work-details p{
+		font-size: 14px;
+	    line-height: 21px;
+	    margin-bottom: 15px;
+	}
+}
+@media (max-width: 1000px){
+	.four-column .work-block{
+		width: 33.33%;
+	}
+	.single-work-details,
+	.single-work .flexslider{
+		margin-bottom: 30px;
+	}
+}
+@media (max-width: 991px){	
+	.single-work-details strong{
+		margin-bottom: 25px;
+	}
+	.single-work-details p{
+		font-size: 15px;
+	    line-height: 22px;
+	    margin-bottom: 25px;
+	}
+	.single-work-details .line span{
+		width: 110px;
+	}
+	.single-work-details .line{
+		font-size: 15px;
+		line-height: 50px;
+	}
+}
+@media (max-width: 767px){
+	.four-column .work-block,
+	.three-column .work-block{
+		width: 49.99%;
+	}
+	.header-search{
+		margin-top: -40px;
+	}
+	.page-name{
+		margin-top: 80px;
+	}
+	.header{
+		height: 80px;
+	}
+}
+@media (max-width: 600px){
+	.work-title .name{
+		font-size: 18px;
+	}
+	.single-work-details .soc-icon {
+	    margin-left: -12px;
+	}
+	.soc-icon span{
+		display: block;
+		margin-bottom: 10px;
+		margin-left: 12px;
+	}
+	.work-title.var2{
+		margin-top: 0;
+	}
+	.work-title.var2 .name{
+		font-size: 26px;
+	}
+	.page-name{
+		height: 120px;
+	}
+	.page-name h1{
+		line-height: 100px;
+	}
+}
+@media (max-width: 500px){
+	.cleants-logo {
+	    line-height: 100px;
+	}
+	.page-name h1{
+		font-size: 26px;
+	}
+	.work-title .next, 
+	.work-title .prev{
+		width: 40px;
+		height: 40px;
+		line-height: 38px;
+	}
+	.work-title{
+		height: 40px;
+	}
+	.work-title .name{
+		margin-top: 2px;
+		line-height: 18px;
+	}
+	.work-title.var2 .name{
+		font-size: 20px;
+	}
+}
+@media (max-width: 400px){
+	.bread-crumbs span, 
+	.bread-crumbs a{
+		font-size: 9px;
+	}
+	.four-column .work-block,
+	.two-column .work-block,
+	.three-column .work-block{
+		width: 100%;
+	}
+	.page-name h1{
+		font-size: 16px;
+	}
+	.work-title .position,
+	.work-title .name {
+	    font-size: 12px;
+	}
+	.single-work-details .line span{
+		width: 90px;
+	}
+	.single-work-details .line{
+		font-size: 12px;
+	}
+	.page-name{
+		height: 80px;
+	}
+	.page-name h1{
+		line-height: 65px;
+	}
+}

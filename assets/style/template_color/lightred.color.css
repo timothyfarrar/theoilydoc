@@ -1,0 +1,103 @@
+
+
+ 
+ 
+.lightred .title .dots em,
+.lightred .button,
+.lightred .button.var2:active,
+.lightred .button.var2:focus,
+.lightred .button.var2:hover,
+.lightred .circle-button,
+.lightred .services-block:hover .dots em,
+.lightred .work-block .zoom,
+.lightred .feedback-block .line,
+.lightred .twitter,
+.lightred .team-block .image-wrapper,
+.lightred .scroll-top:hover,
+.lightred .blog-block .dots em,
+.lightred .page-name,
+.lightred .comments-title .dots em{
+	background-color: #fd7647;
+}
+.lightred a.active,
+.lightred a:hover,
+.lightred .header-search .btn-group .btn:hover,
+.lightred .header-search .btn-group .btn:hover span,
+.lightred .header-search .soc-icons a:hover,
+.lightred .navbar-default .navbar-nav > .open > a, 
+.lightred .navbar-default .navbar-nav > .open > a:hover, 
+.lightred .navbar-default .navbar-nav > .open > a:focus,
+.lightred .navbar-default .navbar-nav > li > a:hover, 
+.lightred .navbar-default .navbar-nav > li > a:focus,
+.lightred .navbar-default .navbar-brand span,
+.lightred .slider-logo .tp-splitted:nth-child(2),
+.lightred .about-block em,
+.lightred .about-block:hover .name,
+.lightred .video .fa-pause:hover,
+.lightred .services-block em,
+.lightred .services-block:hover .name,
+.lightred .fact-block em,
+.lightred .feedback-block .position,
+.lightred .team-block .soc-button a:hover,
+.lightred .team-block:hover .name,
+.lightred .soc-block .col-lg-2 a:hover,
+.lightred .scroll-top,
+.lightred .contact .mail,
+.lightred .soc-icon a:hover,
+.lightred .blog-content .name:hover,
+.lightred .blog-content .info em,
+.lightred .blog-content .info > *:hover,
+.lightred .read-more:hover em,
+.lightred .blog-menu a:hover,
+.lightred .small-post:hover .name,
+.lightred .tags-wrapper a:hover{
+	color: #fd7647;
+}
+.lightred .button.var2:active,
+.lightred .button.var2:focus,
+.lightred .button.var2:hover,
+.lightred .circle-button:after,
+.lightred .team-block:hover .soc-button{
+	border-color: #fd7647;
+}
+.lightred .blog-menu a:hover{
+	border-left-color: #fd7647;
+}
+.lightred .dropdown-menu > li > a:hover:before,
+.lightred .contact input:focus,
+.lightred .contact textarea:focus,
+.lightred .single-work-details .line em,
+.lightred .read-more:hover em,
+.lightred .blog-left-side .form-control:focus,
+.lightred .leave-comment input:focus,
+.lightred .leave-comment textarea:focus{
+	box-shadow: 0 0 0 2px #fd7647 inset;
+}
+.lightred .about-block:hover .text:before{
+	box-shadow: 0 0 0 10px #fd7647 inset;
+}
+.lightred .single-work .flex-control-nav a.flex-active,
+.lightred .team-slider .flex-control-nav a.flex-active,
+.lightred .blog-content .flex-control-nav a.flex-active {
+    box-shadow: 0 0 0 12px #fd7647 inset;
+}
+.lightred .circle-button:active,
+.lightred .circle-button:focus,
+.lightred .circle-button:hover,
+.lightred .button.big:active,
+.lightred .button.big:focus,
+.lightred .button.big:hover,
+.lightred .button:active,
+.lightred .button:focus,
+.lightred .button:hover,
+.lightred .scroll-top:hover{
+	color: #fff;
+}
+.lightred .button.big:active,
+.lightred .button.big:focus,
+.lightred .button.big:hover,
+.lightred .button:active,
+.lightred .button:focus,
+.lightred .button:hover{
+	background: #333;
+}

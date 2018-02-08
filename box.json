@@ -1,0 +1,26 @@
+{
+    "name":"theoilydoc.com",
+    "version":"1.0.0",
+    "author":"Timothy Farrar",
+    "slug":"theoilydoc",
+    "private":true,
+    "createPackageDirectory":false,
+    "dependencies":{
+        "presidecms":"^10.7.0",
+        "preside-ext-elasticsearch":"github:pixl8/preside-ext-elasticsearch#v1.0.10",
+        "preside-ext-analytics-import":"stable",
+        "preside-ext-blog":"stable",
+        "preside-ext-social-login":"github:seakchiew/preside-ext-social-login",
+        "preside-ext-theme-verti#v1.0.1":"folder:/sites/theoilydoc/pixl8/preside-ext-theme-verti#v1.0.1/",
+        "preside-theme-verti":"^1.0.3"
+    },
+    "installPaths":{
+        "presidecms":"preside/",
+        "preside-ext-elasticsearch":"application/extensions/application/extensions/application/extensions/preside-ext-elasticsearch",
+        "preside-ext-analytics-import":"application/extensions/preside-ext-analytics-import/",
+        "preside-ext-blog":"application/extensions/preside-ext-blog/",
+        "preside-ext-social-login":"application/extensions/preside-ext-social-login/",
+        "preside-ext-theme-verti#v1.0.1":"preside-ext-theme-verti#v1.0.1/",
+        "preside-theme-verti":"application/extensions/preside-theme-verti/"
+    }
+}

@@ -1,0 +1,101 @@
+
+ 
+.red .title .dots em,
+.red .button,
+.red .button.var2:active,
+.red .button.var2:focus,
+.red .button.var2:hover,
+.red .circle-button,
+.red .services-block:hover .dots em,
+.red .work-block .zoom,
+.red .feedback-block .line,
+.red .twitter,
+.red .team-block .image-wrapper,
+.red .scroll-top:hover,
+.red .blog-block .dots em,
+.red .page-name,
+.red .comments-title .dots em{
+	background-color: #fa3f20;
+}
+.red a.active,
+.red a:hover,
+.red .header-search .btn-group .btn:hover,
+.red .header-search .btn-group .btn:hover span,
+.red .header-search .soc-icons a:hover,
+.red .navbar-default .navbar-nav > .open > a, 
+.red .navbar-default .navbar-nav > .open > a:hover, 
+.red .navbar-default .navbar-nav > .open > a:focus,
+.red .navbar-default .navbar-nav > li > a:hover, 
+.red .navbar-default .navbar-nav > li > a:focus,
+.red .navbar-default .navbar-brand span,
+.red .slider-logo .tp-splitted:nth-child(2),
+.red .about-block em,
+.red .about-block:hover .name,
+.red .video .fa-pause:hover,
+.red .services-block em,
+.red .services-block:hover .name,
+.red .fact-block em,
+.red .feedback-block .position,
+.red .team-block .soc-button a:hover,
+.red .team-block:hover .name,
+.red .soc-block .col-lg-2 a:hover,
+.red .scroll-top,
+.red .contact .mail,
+.red .soc-icon a:hover,
+.red .blog-content .name:hover,
+.red .blog-content .info em,
+.red .blog-content .info > *:hover,
+.red .read-more:hover em,
+.red .blog-menu a:hover,
+.red .small-post:hover .name,
+.red .tags-wrapper a:hover{
+	color: #fa3f20;
+}
+.red .button.var2:active,
+.red .button.var2:focus,
+.red .button.var2:hover,
+.red .circle-button:after,
+.red .team-block:hover .soc-button{
+	border-color: #fa3f20;
+}
+.red .blog-menu a:hover{
+	border-left-color: #fa3f20;
+}
+.red .dropdown-menu > li > a:hover:before,
+.red .contact input:focus,
+.red .contact textarea:focus,
+.red .single-work-details .line em,
+.red .read-more:hover em,
+.red .blog-left-side .form-control:focus,
+.red .leave-comment input:focus,
+.red .leave-comment textarea:focus{
+	box-shadow: 0 0 0 2px #fa3f20 inset;
+}
+.red .about-block:hover .text:before{
+	box-shadow: 0 0 0 10px #fa3f20 inset;
+}
+.red .single-work .flex-control-nav a.flex-active,
+.red .team-slider .flex-control-nav a.flex-active,
+.red .blog-content .flex-control-nav a.flex-active {
+    box-shadow: 0 0 0 12px #fa3f20 inset;
+}
+.red .circle-button:active,
+.red .circle-button:focus,
+.red .circle-button:hover,
+.red .button.big:active,
+.red .button.big:focus,
+.red .button.big:hover,
+.red .button:active,
+.red .button:focus,
+.red .button:hover,
+.red .scroll-top:hover{
+	color: #fff;
+}
+.red .button.big:active,
+.red .button.big:focus,
+.red .button.big:hover,
+.red .button:active,
+.red .button:focus,
+.red .button:hover{
+	background: #333;
+}

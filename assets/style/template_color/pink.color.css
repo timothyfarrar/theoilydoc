@@ -1,0 +1,102 @@
+
+ 
+ 
+.pink .title .dots em,
+.pink .button,
+.pink .button.var2:active,
+.pink .button.var2:focus,
+.pink .button.var2:hover,
+.pink .circle-button,
+.pink .services-block:hover .dots em,
+.pink .work-block .zoom,
+.pink .feedback-block .line,
+.pink .twitter,
+.pink .team-block .image-wrapper,
+.pink .scroll-top:hover,
+.pink .blog-block .dots em,
+.pink .page-name,
+.pink .comments-title .dots em{
+	background-color: #bd2882;
+}
+.pink a.active,
+.pink a:hover,
+.pink .header-search .btn-group .btn:hover,
+.pink .header-search .btn-group .btn:hover span,
+.pink .header-search .soc-icons a:hover,
+.pink .navbar-default .navbar-nav > .open > a, 
+.pink .navbar-default .navbar-nav > .open > a:hover, 
+.pink .navbar-default .navbar-nav > .open > a:focus,
+.pink .navbar-default .navbar-nav > li > a:hover, 
+.pink .navbar-default .navbar-nav > li > a:focus,
+.pink .navbar-default .navbar-brand span,
+.pink .slider-logo .tp-splitted:nth-child(2),
+.pink .about-block em,
+.pink .about-block:hover .name,
+.pink .video .fa-pause:hover,
+.pink .services-block em,
+.pink .services-block:hover .name,
+.pink .fact-block em,
+.pink .feedback-block .position,
+.pink .team-block .soc-button a:hover,
+.pink .team-block:hover .name,
+.pink .soc-block .col-lg-2 a:hover,
+.pink .scroll-top,
+.pink .contact .mail,
+.pink .soc-icon a:hover,
+.pink .blog-content .name:hover,
+.pink .blog-content .info em,
+.pink .blog-content .info > *:hover,
+.pink .read-more:hover em,
+.pink .blog-menu a:hover,
+.pink .small-post:hover .name,
+.pink .tags-wrapper a:hover{
+	color: #bd2882;
+}
+.pink .button.var2:active,
+.pink .button.var2:focus,
+.pink .button.var2:hover,
+.pink .circle-button:after,
+.pink .team-block:hover .soc-button{
+	border-color: #bd2882;
+}
+.pink .blog-menu a:hover{
+	border-left-color: #bd2882;
+}
+.pink .dropdown-menu > li > a:hover:before,
+.pink .contact input:focus,
+.pink .contact textarea:focus,
+.pink .single-work-details .line em,
+.pink .read-more:hover em,
+.pink .blog-left-side .form-control:focus,
+.pink .leave-comment input:focus,
+.pink .leave-comment textarea:focus{
+	box-shadow: 0 0 0 2px #bd2882 inset;
+}
+.pink .about-block:hover .text:before{
+	box-shadow: 0 0 0 10px #bd2882 inset;
+}
+.pink .single-work .flex-control-nav a.flex-active,
+.pink .team-slider .flex-control-nav a.flex-active,
+.pink .blog-content .flex-control-nav a.flex-active {
+    box-shadow: 0 0 0 12px #bd2882 inset;
+}
+.pink .circle-button:active,
+.pink .circle-button:focus,
+.pink .circle-button:hover,
+.pink .button.big:active,
+.pink .button.big:focus,
+.pink .button.big:hover,
+.pink .button:active,
+.pink .button:focus,
+.pink .button:hover,
+.pink .scroll-top:hover{
+	color: #fff;
+}
+.pink .button.big:active,
+.pink .button.big:focus,
+.pink .button.big:hover,
+.pink .button:active,
+.pink .button:focus,
+.pink .button:hover{
+	background: #333;
+}

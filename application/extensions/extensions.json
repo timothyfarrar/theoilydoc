@@ -1,0 +1,1 @@
+[{"priority":30,"name":"preside-ext-elasticsearch","active":false},{"priority":20,"name":"preside-ext-analytics-import","active":true},{"priority":10,"name":"preside-ext-blog","active":true},{"priority":40,"name":"preside-ext-social-login","active":true},{"priority":50,"name":"preside-theme-verti","active":false},{"priority":0,"name":"preside-theme-coloris-beta","active":false}]

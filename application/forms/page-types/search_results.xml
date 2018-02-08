@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<tab id="sitesearch" title="Site Search" sortorder="15">
+		<fieldset id="sitesearch">
+			<field binding="search_results.results_per_page" defaultValue="10" minValue="1" maxValue="100" default="5" />
+			<field binding="search_results.label_you_searched_for" control="textinput" default="You searched for" />
+			<field binding="search_results.search_name" control="textinput" default="${q}" />
+			<field binding="search_results.label_result_count" control="textinput" default="${count} results" />
+			<field binding="search_results.label_load_more" control="textinput" default="Load more +" />
+		</fieldset>
+	</tab>
+
+	<tab id="dates" deleted="true" />
+</form>

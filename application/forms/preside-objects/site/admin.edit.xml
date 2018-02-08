@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<tab id="navigation" sortorder="40" title="preside-objects.site:editform.navigationtab.title">
+		<fieldset id="header" sortorder="31" title="preside-objects.site:editform.headersection.title">
+			<field binding="site.logo" />
+		</fieldset>
+		<fieldset id="footer" sortorder="31" title="preside-objects.site:editform.footersection.title">
+			<field binding="site.contact_section_title" />
+			<field binding="site.contact_address" />
+			<field binding="site.social_link_section_title" />
+			<field binding="site.social_links" control="objectPicker" object="social_link" sortable="true" quickadd="true" quickedit="true" multiple="true"/>
+			<field binding="site.copyright"    control="richEditor"/>
+			<field binding="site.left_content" control="richEditor"/>
+		</fieldset>
+	</tab>
+</form>

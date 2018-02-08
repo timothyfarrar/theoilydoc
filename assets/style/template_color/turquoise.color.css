@@ -1,0 +1,101 @@
+
+ 
+.turquoise .title .dots em,
+.turquoise .button,
+.turquoise .button.var2:active,
+.turquoise .button.var2:focus,
+.turquoise .button.var2:hover,
+.turquoise .circle-button,
+.turquoise .services-block:hover .dots em,
+.turquoise .work-block .zoom,
+.turquoise .feedback-block .line,
+.turquoise .twitter,
+.turquoise .team-block .image-wrapper,
+.turquoise .scroll-top:hover,
+.turquoise .blog-block .dots em,
+.turquoise .page-name,
+.turquoise .comments-title .dots em{
+	background-color: #009dc0;
+}
+.turquoise a.active,
+.turquoise a:hover,
+.turquoise .header-search .btn-group .btn:hover,
+.turquoise .header-search .btn-group .btn:hover span,
+.turquoise .header-search .soc-icons a:hover,
+.turquoise .navbar-default .navbar-nav > .open > a, 
+.turquoise .navbar-default .navbar-nav > .open > a:hover, 
+.turquoise .navbar-default .navbar-nav > .open > a:focus,
+.turquoise .navbar-default .navbar-nav > li > a:hover, 
+.turquoise .navbar-default .navbar-nav > li > a:focus,
+.turquoise .navbar-default .navbar-brand span,
+.turquoise .slider-logo .tp-splitted:nth-child(2),
+.turquoise .about-block em,
+.turquoise .about-block:hover .name,
+.turquoise .video .fa-pause:hover,
+.turquoise .services-block em,
+.turquoise .services-block:hover .name,
+.turquoise .fact-block em,
+.turquoise .feedback-block .position,
+.turquoise .team-block .soc-button a:hover,
+.turquoise .team-block:hover .name,
+.turquoise .soc-block .col-lg-2 a:hover,
+.turquoise .scroll-top,
+.turquoise .contact .mail,
+.turquoise .soc-icon a:hover,
+.turquoise .blog-content .name:hover,
+.turquoise .blog-content .info em,
+.turquoise .blog-content .info > *:hover,
+.turquoise .read-more:hover em,
+.turquoise .blog-menu a:hover,
+.turquoise .small-post:hover .name,
+.turquoise .tags-wrapper a:hover{
+	color: #009dc0;
+}
+.turquoise .button.var2:active,
+.turquoise .button.var2:focus,
+.turquoise .button.var2:hover,
+.turquoise .circle-button:after,
+.turquoise .team-block:hover .soc-button{
+	border-color: #009dc0;
+}
+.turquoise .blog-menu a:hover{
+	border-left-color: #009dc0;
+}
+.turquoise .dropdown-menu > li > a:hover:before,
+.turquoise .contact input:focus,
+.turquoise .contact textarea:focus,
+.turquoise .single-work-details .line em,
+.turquoise .read-more:hover em,
+.turquoise .blog-left-side .form-control:focus,
+.turquoise .leave-comment input:focus,
+.turquoise .leave-comment textarea:focus{
+	box-shadow: 0 0 0 2px #009dc0 inset;
+}
+.turquoise .about-block:hover .text:before{
+	box-shadow: 0 0 0 10px #009dc0 inset;
+}
+.turquoise .single-work .flex-control-nav a.flex-active,
+.turquoise .team-slider .flex-control-nav a.flex-active,
+.turquoise .blog-content .flex-control-nav a.flex-active {
+    box-shadow: 0 0 0 12px #009dc0 inset;
+}
+.turquoise .circle-button:active,
+.turquoise .circle-button:focus,
+.turquoise .circle-button:hover,
+.turquoise .button.big:active,
+.turquoise .button.big:focus,
+.turquoise .button.big:hover,
+.turquoise .button:active,
+.turquoise .button:focus,
+.turquoise .button:hover,
+.turquoise .scroll-top:hover{
+	color: #fff;
+}
+.turquoise .button.big:active,
+.turquoise .button.big:focus,
+.turquoise .button.big:hover,
+.turquoise .button:active,
+.turquoise .button:focus,
+.turquoise .button:hover{
+	background: #333;
+}

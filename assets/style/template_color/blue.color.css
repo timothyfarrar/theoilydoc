@@ -1,0 +1,102 @@
+
+
+ 
+.blue .title .dots em,
+.blue .button,
+.blue .button.var2:active,
+.blue .button.var2:focus,
+.blue .button.var2:hover,
+.blue .circle-button,
+.blue .services-block:hover .dots em,
+.blue .work-block .zoom,
+.blue .feedback-block .line,
+.blue .twitter,
+.blue .team-block .image-wrapper,
+.blue .scroll-top:hover,
+.blue .blog-block .dots em,
+.blue .page-name,
+.blue .comments-title .dots em{
+	background-color: #4f4bc4;
+}
+.blue a.active,
+.blue a:hover,
+.blue .header-search .btn-group .btn:hover,
+.blue .header-search .btn-group .btn:hover span,
+.blue .header-search .soc-icons a:hover,
+.blue .navbar-default .navbar-nav > .open > a, 
+.blue .navbar-default .navbar-nav > .open > a:hover, 
+.blue .navbar-default .navbar-nav > .open > a:focus,
+.blue .navbar-default .navbar-nav > li > a:hover, 
+.blue .navbar-default .navbar-nav > li > a:focus,
+.blue .navbar-default .navbar-brand span,
+.blue .slider-logo .tp-splitted:nth-child(2),
+.blue .about-block em,
+.blue .about-block:hover .name,
+.blue .video .fa-pause:hover,
+.blue .services-block em,
+.blue .services-block:hover .name,
+.blue .fact-block em,
+.blue .feedback-block .position,
+.blue .team-block .soc-button a:hover,
+.blue .team-block:hover .name,
+.blue .soc-block .col-lg-2 a:hover,
+.blue .scroll-top,
+.blue .contact .mail,
+.blue .soc-icon a:hover,
+.blue .blog-content .name:hover,
+.blue .blog-content .info em,
+.blue .blog-content .info > *:hover,
+.blue .read-more:hover em,
+.blue .blog-menu a:hover,
+.blue .small-post:hover .name,
+.blue .tags-wrapper a:hover{
+	color: #4f4bc4;
+}
+.blue .button.var2:active,
+.blue .button.var2:focus,
+.blue .button.var2:hover,
+.blue .circle-button:after,
+.blue .team-block:hover .soc-button{
+	border-color: #4f4bc4;
+}
+.blue .blog-menu a:hover{
+	border-left-color: #4f4bc4;
+}
+.blue .dropdown-menu > li > a:hover:before,
+.blue .contact input:focus,
+.blue .contact textarea:focus,
+.blue .single-work-details .line em,
+.blue .read-more:hover em,
+.blue .blog-left-side .form-control:focus,
+.blue .leave-comment input:focus,
+.blue .leave-comment textarea:focus{
+	box-shadow: 0 0 0 2px #4f4bc4 inset;
+}
+.blue .about-block:hover .text:before{
+	box-shadow: 0 0 0 10px #4f4bc4 inset;
+}
+.blue .single-work .flex-control-nav a.flex-active,
+.blue .team-slider .flex-control-nav a.flex-active,
+.blue .blog-content .flex-control-nav a.flex-active {
+    box-shadow: 0 0 0 12px #4f4bc4 inset;
+}
+.blue .circle-button:active,
+.blue .circle-button:focus,
+.blue .circle-button:hover,
+.blue .button.big:active,
+.blue .button.big:focus,
+.blue .button.big:hover,
+.blue .button:active,
+.blue .button:focus,
+.blue .button:hover,
+.blue .scroll-top:hover{
+	color: #fff;
+}
+.blue .button.big:active,
+.blue .button.big:focus,
+.blue .button.big:hover,
+.blue .button:active,
+.blue .button:focus,
+.blue .button:hover{
+	background: #333;
+}

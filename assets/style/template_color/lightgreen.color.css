@@ -1,0 +1,101 @@
+
+ 
+.lightgreen .title .dots em,
+.lightgreen .button,
+.lightgreen .button.var2:active,
+.lightgreen .button.var2:focus,
+.lightgreen .button.var2:hover,
+.lightgreen .circle-button,
+.lightgreen .services-block:hover .dots em,
+.lightgreen .work-block .zoom,
+.lightgreen .feedback-block .line,
+.lightgreen .twitter,
+.lightgreen .team-block .image-wrapper,
+.lightgreen .scroll-top:hover,
+.lightgreen .blog-block .dots em,
+.lightgreen .page-name,
+.lightgreen .comments-title .dots em{
+	background-color: #44b37e;
+}
+.lightgreen a.active,
+.lightgreen a:hover,
+.lightgreen .header-search .btn-group .btn:hover,
+.lightgreen .header-search .btn-group .btn:hover span,
+.lightgreen .header-search .soc-icons a:hover,
+.lightgreen .navbar-default .navbar-nav > .open > a, 
+.lightgreen .navbar-default .navbar-nav > .open > a:hover, 
+.lightgreen .navbar-default .navbar-nav > .open > a:focus,
+.lightgreen .navbar-default .navbar-nav > li > a:hover, 
+.lightgreen .navbar-default .navbar-nav > li > a:focus,
+.lightgreen .navbar-default .navbar-brand span,
+.lightgreen .slider-logo .tp-splitted:nth-child(2),
+.lightgreen .about-block em,
+.lightgreen .about-block:hover .name,
+.lightgreen .video .fa-pause:hover,
+.lightgreen .services-block em,
+.lightgreen .services-block:hover .name,
+.lightgreen .fact-block em,
+.lightgreen .feedback-block .position,
+.lightgreen .team-block .soc-button a:hover,
+.lightgreen .team-block:hover .name,
+.lightgreen .soc-block .col-lg-2 a:hover,
+.lightgreen .scroll-top,
+.lightgreen .contact .mail,
+.lightgreen .soc-icon a:hover,
+.lightgreen .blog-content .name:hover,
+.lightgreen .blog-content .info em,
+.lightgreen .blog-content .info > *:hover,
+.lightgreen .read-more:hover em,
+.lightgreen .blog-menu a:hover,
+.lightgreen .small-post:hover .name,
+.lightgreen .tags-wrapper a:hover{
+	color: #44b37e;
+}
+.lightgreen .button.var2:active,
+.lightgreen .button.var2:focus,
+.lightgreen .button.var2:hover,
+.lightgreen .circle-button:after,
+.lightgreen .team-block:hover .soc-button{
+	border-color: #44b37e;
+}
+.lightgreen .blog-menu a:hover{
+	border-left-color: #44b37e;
+}
+.lightgreen .dropdown-menu > li > a:hover:before,
+.lightgreen .contact input:focus,
+.lightgreen .contact textarea:focus,
+.lightgreen .single-work-details .line em,
+.lightgreen .read-more:hover em,
+.lightgreen .blog-left-side .form-control:focus,
+.lightgreen .leave-comment input:focus,
+.lightgreen .leave-comment textarea:focus{
+	box-shadow: 0 0 0 2px #44b37e inset;
+}
+.lightgreen .about-block:hover .text:before{
+	box-shadow: 0 0 0 10px #44b37e inset;
+}
+.lightgreen .single-work .flex-control-nav a.flex-active,
+.lightgreen .team-slider .flex-control-nav a.flex-active,
+.lightgreen .blog-content .flex-control-nav a.flex-active {
+    box-shadow: 0 0 0 12px #44b37e inset;
+}
+.lightgreen .circle-button:active,
+.lightgreen .circle-button:focus,
+.lightgreen .circle-button:hover,
+.lightgreen .button.big:active,
+.lightgreen .button.big:focus,
+.lightgreen .button.big:hover,
+.lightgreen .button:active,
+.lightgreen .button:focus,
+.lightgreen .button:hover,
+.lightgreen .scroll-top:hover{
+	color: #fff;
+}
+.lightgreen .button.big:active,
+.lightgreen .button.big:focus,
+.lightgreen .button.big:hover,
+.lightgreen .button:active,
+.lightgreen .button:focus,
+.lightgreen .button:hover{
+	background: #333;
+}
